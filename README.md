@@ -8,8 +8,8 @@ https://github.com/angelina-hryb => Click on [repositories] button => Click on [
  Git Bash command:
 $ git clone https://github.com/angelina-hryb/JSON.git 
 
- 3. Внутри локального JSON создать файл “new.json”.
-$ touch new.json
+ 3. Внутри локального JSON создать файл “new.json”.  
+$ touch new.json  
 
  4. Добавить файл под гит.
  5. Закоммитить файл.
