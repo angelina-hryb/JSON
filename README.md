@@ -1,15 +1,16 @@
 # JSON HW_2
  1. Создать внешний репозиторий c названием JSON.
- https://github.com/angelina-hryb => Click on [repositories] button => Click on [new] blue button => 
- Write in field Repository name : "JSON" => Click on [Create repository] blue button
+https://github.com/angelina-hryb => Click on [repositories] button => Click on [new] blue button => 
+Write in field Repository name : "JSON" => Click on [Create repository] blue button
 
  2. Клонировать репозиторий JSON на локальный компьютер.
 https://github.com/angelina-hryb => Click on [repositories] button => Click on [JSON] repositorie => Click on [<>Code] blue button => copy https://github.com/angelina-hryb/JSON.git 
  Git Bash command:
- $ git clone https://github.com/angelina-hryb/JSON.git 
+$ git clone https://github.com/angelina-hryb/JSON.git 
 
  3. Внутри локального JSON создать файл “new.json”.
- cat new.json
+$ touch new.json
+
  4. Добавить файл под гит.
  5. Закоммитить файл.
  6. Отправить файл на внешний GitHub репозиторий.
